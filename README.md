@@ -1,5 +1,5 @@
 <!-- <h1 align="center">Hi 👋, I'm Bram</h1> -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bram-4197&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a>
 
 <!-- <h3 align="center">Software developer student</h3>
 
