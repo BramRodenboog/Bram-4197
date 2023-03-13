@@ -5,17 +5,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bram-4197&theme=transparent)](https://github.com/anuraghazra/github-readme-stats&theme=transparent)
 
-
-
-
-
-- 🔭 I’m currently working on [The Monkey Mafia](https://github.com/The-Monkey-Maffia)
-
-- 🌱 I’m currently learning **Golang**
-
-- 💬 Ask me about **React**
-
-
-</p>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bram-4197&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats&theme=transparent)
