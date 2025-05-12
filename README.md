@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Bram</h1>
-
-<h3 align="center">Software Developer Student</h3>
 
 <div align="center">
   <a href="https://github.com/BramRodenboog/github-readme-stats">
