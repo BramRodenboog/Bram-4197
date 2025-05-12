@@ -2,4 +2,4 @@
 
 <h3 align="center">Software developer student</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BramRodenboog&theme=transparent)](https://github.com/anuraghazra/github-readme-stats&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BramRodenboog&theme=transparent&layout=compact)](https://github.com/BramRodenboog/github-readme-stats&theme=transparent&layout=compact)
